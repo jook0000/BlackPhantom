@@ -5,11 +5,10 @@
 
 ## instalation 
 
-#### kali lunix 🤖D
+#### kali lunix 🤖
 ```1- sudo apt update```
-=======
+
 ```1- sudo apt update```
->>>>>>> 5303515f6d360500e4bca00283f9d89123d7af3b
 
 ```2- sudo apt install tor```
 
