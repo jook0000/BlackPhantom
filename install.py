@@ -7,10 +7,14 @@ from termcolor import colored
 REQUIRED_LIBRARIES = [
     "requests",
     "pyfiglet",
+<<<<<<< HEAD
     "termcolor",
     "sys",
     "os",
     "subprocess"
+=======
+    "termcolor"
+>>>>>>> 5303515f6d360500e4bca00283f9d89123d7af3b
 ]
 
 def check_and_install_libraries():
