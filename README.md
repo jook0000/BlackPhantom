@@ -6,8 +6,7 @@
 ## instalation 
 
 #### kali lunix 🤖
-```
-```sudo apt update```
+```1- sudo apt update```
 
 ```sudo apt install tor```
 
@@ -22,7 +21,6 @@
 ```python3 install.py ```
 
 ```python3 BlackPhantom.py```
-```
 #### termux 🤖
 ```pkg update & pkg upgrade```
 
