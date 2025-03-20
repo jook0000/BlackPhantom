@@ -3,40 +3,15 @@
 ### BlackPhantom
 ##### Social media account penetration testing tool 😈
 
-## instalation 
+## Installation 
 
-#### kali lunix 🤖
-```1- sudo apt update```
-
-```sudo apt install tor```
-
-```sudo apt install git```  
-
-```git clone https://github.com/jook0000/BlackPhantom.git```
-
-```tor```
-
-```cd BlackPhantom```
-
-```python3 install.py ```
-
-```python3 BlackPhantom.py```
-#### termux 🤖
-```pkg update & pkg upgrade```
-
-```pkg install tor```
-
-```pkg install python3```
-
-```pkg install git```
-
-```git clone https://github.com/jook0000/BlackPhantom.git```
-
-```tor```
-
-```cd BlackPhantom```
-
-```python3 install.py```
-
-```python3 BlackPhantom.py```
-
+#### Kali Linux 🤖
+```bash
+1- sudo apt update
+2- sudo apt install tor
+3- sudo apt install git
+4- git clone https://github.com/jook0000/BlackPhantom.git
+5- tor
+6- cd BlackPhantom
+7- python3 install.py
+8- python3 BlackPhantom.py
