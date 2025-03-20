@@ -1,7 +1,7 @@
 # BlackPhantom
 
 ### BlackPhantom
-#####Social media account penetration testing tool
+##### Social media account penetration testing tool
 
 ## instalation 
 
@@ -21,6 +21,4 @@ pkg install git
 git clone https://github.com/jook0000/BlackPhantom.git
 cd BlackPhantom
 python3 BlackPhantom.py
-
-
 ```
